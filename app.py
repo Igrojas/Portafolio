@@ -16,11 +16,9 @@ lottie_codder = load_lottieur("https://lottie.host/31483329-3d9e-47b9-9e2c-ec78b
 st.title('Hola, soy Ignacio Rojas')
 
 st.write("""
-    Ingeniero civil matemático con sólida formación en matemáticas aplicadas y programación, especializado en el análisis de datos y resolución de
-    problemas complejos. Poseo amplios conocimientos en herramientas matemáticas y estadísticas que me permiten abordar y resolver desafíos
-    técnicos con precisión y eficiencia. Soy un entusiasta de la tecnología, la innovación y la inteligencia artificial, siempre buscando implementar
-    soluciones avanzadas. Destaco por mi pensamiento crítico, adaptabilidad y flexibilidad, lo que me permite colaborar eficazmente en entornos
-    dinámicos y multidisciplinarios.""")
+    Ingeniero civil matemático con experiencia en análisis de datos y programación. Especializado en matemáticas aplicadas y estadísticas, 
+    enfocado en la resolución de problemas complejos con precisión y eficiencia.
+""")
 
 st.markdown("""
     [LinkedIn](https://www.linkedin.com/in/tu_perfil_de_linkedin) | 
