@@ -21,9 +21,9 @@ st.write("""
 """)
 
 st.markdown("""
-    [LinkedIn](https://www.linkedin.com/in/tu_perfil_de_linkedin) | 
-    [GitHub](https://github.com/tu_usuario_de_github) | 
-    [Correo](mailto:tu_correo@example.com)
+    [LinkedIn](https://www.linkedin.com/in/ignaciorojasr) | 
+    [GitHub](https://github.com/Igrojas) | 
+    [Correo](mailto:igrojasro@hotmail.com)
 """)
 # with st.container():
 #     col1,col2 = st.columns(2)
