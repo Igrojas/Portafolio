@@ -70,4 +70,4 @@ st.markdown("""
 - 🧮 **Desarrollo de algoritmos para evaluar la influencia y agrupación de autores.**
 - 📊 **Creación de visualizaciones gráficas y grafos para representar la información de manera efectiva.**""")
 
-st.markdown("[Ver proyecto completo](https://ml-flotacion-jdp6tepzersnzkwhyk498a.streamlit.app/)")
+#st.markdown("[Ver proyecto completo](https://ml-flotacion-jdp6tepzersnzkwhyk498a.streamlit.app/)")
