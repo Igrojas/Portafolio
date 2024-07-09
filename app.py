@@ -72,6 +72,7 @@ st.markdown("""
 
 st.markdown("""
 [Memoria de título](https://github.com/Igrojas/Memoria-Titulo/blob/main/Memoria%20de%20Titulo%202023.pdf) | 
-[Parte 1](https://an-lisis-bibliom-trico-jmvnh2ttwkckyma3bwpbos.streamlit.app/)""")
+[Parte 1](https://an-lisis-bibliom-trico-jmvnh2ttwkckyma3bwpbos.streamlit.app/) | 
+[Parte 2](https://an-lisis-bibliom-trico-scc3chpdbrqxoqnxpyzimx.streamlit.app/)""")
 
 #st.markdown("[Ver proyecto completo](https://ml-flotacion-jdp6tepzersnzkwhyk498a.streamlit.app/)")
