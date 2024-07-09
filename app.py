@@ -70,6 +70,8 @@ st.markdown("""
 - 🧮 **Desarrollo de algoritmos para evaluar la influencia y agrupación de autores.**
 - 📊 **Creación de visualizaciones gráficas y grafos para representar la información de manera efectiva.**""")
 
-st.markdown("[Parte 1](https://an-lisis-bibliom-trico-jmvnh2ttwkckyma3bwpbos.streamlit.app/)")
+st.markdown("""
+[Memoria de título](https://github.com/Igrojas/Memoria-Titulo/blob/main/Memoria%20de%20Titulo%202023.pdf)
+[Parte 1](https://an-lisis-bibliom-trico-jmvnh2ttwkckyma3bwpbos.streamlit.app/)""")
 
 #st.markdown("[Ver proyecto completo](https://ml-flotacion-jdp6tepzersnzkwhyk498a.streamlit.app/)")
