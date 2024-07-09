@@ -36,7 +36,7 @@ st.markdown("""
 
 # st.write("---")
 
-st.write("#")
+st.write("###")
 
 st.header("Experiencia")
 st.subheader("Práctica Profesional - Empírica Consultores")
@@ -55,7 +55,7 @@ st.markdown("""
 st.markdown("[Ver proyecto completo](https://ml-flotacion-jdp6tepzersnzkwhyk498a.streamlit.app/)")
 
 # st.write("---")
-st.write("#")
+st.write("###")
 
 st.header("Educación")
 # Detalles de la Educación
