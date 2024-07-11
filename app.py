@@ -52,7 +52,9 @@ st.markdown("""
 - 📈 **Presentación efectiva de resultados respaldada por análisis riguroso de datos.**
 """)
 
-st.markdown("[Ver proyecto completo](https://ml-flotacion-jdp6tepzersnzkwhyk498a.streamlit.app/)")
+st.markdown("""
+            [Parte 1](https://ml-flotacion-jdp6tepzersnzkwhyk498a.streamlit.app/) |
+            [Parte 2](https://ml-flotacion-a83mcjofehejjrpcth4frl.streamlit.app/)""")
 
 # st.write("---")
 st.write("###")
