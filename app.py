@@ -3,8 +3,6 @@ from streamlit_option_menu import option_menu
 import requests
 from streamlit_lottie import st_lottie
 
-# st.set_page_config(layout="wide")
-
 def load_lottieur(url):
     r = requests.get(url)
     if r.status_code != 200:
@@ -17,24 +15,27 @@ st.markdown(
     """
     <style>
     body {
-        background-color: #0a0a0a;
+        background: linear-gradient(135deg, #1f1f1f, #292929);
         color: white;
     }
     .main {
-        background-color: #0a0a0a;
+        background: linear-gradient(135deg, #1f1f1f, #292929);
         color: white;
     }
     .stButton button {
-        background-color: #1e1e1e;
-        color: white;
-        border: 1px solid #1e1e1e;
+        background-color: transparent;
+        color: #007bff;
+        border: 2px solid #007bff;
         border-radius: 5px;
+        padding: 10px 20px;
         margin: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: bold;
     }
     .stButton button:hover {
-        background-color: #2e2e2e;
+        background-color: #007bff;
         color: white;
-        border: 1px solid #2e2e2e;
     }
     .justified-text {
         text-align: justify;
@@ -85,10 +86,10 @@ Octubre 2023 - Noviembre 2023
 st.markdown(
     """
     <div class="justified-text">
-    - 🔍 **Realización del análisis, limpieza y selección de datos para proyecto de minería.**<br>
-    - 📊 **Creación de visualizaciones detalladas utilizando técnicas como PCA y K-means.**<br>
-    - 🤖 **Exploración y aplicación de modelos de machine learning para optimización predictiva.**<br>
-    - 📈 **Presentación efectiva de resultados respaldada por análisis riguroso de datos.**<br>
+    - 🔍 Realización del análisis, limpieza y selección de datos para proyecto de minería.<br>
+    - 📊 Creación de visualizaciones detalladas utilizando técnicas como PCA y K-means.<br>
+    - 🤖 Exploración y aplicación de modelos de machine learning para optimización predictiva.<br>
+    - 📈 Presentación efectiva de resultados respaldada por análisis riguroso de datos.<br>
     </div>
     """,
     unsafe_allow_html=True
@@ -104,10 +105,10 @@ st.write("Proyecto FONDECYT Regular 1201681")
 st.markdown(
     """
     <div class="justified-text">
-    - 🔍 **Recopilación y unificación de datos de múltiples fuentes, incluyendo Scopus, WOS y Scielo.**<br>
-    - 🧩 **Procesamiento de datos y análisis mediante indicadores bibliométricos.**<br>
-    - 🧮 **Desarrollo de algoritmos para evaluar la influencia y agrupación de autores.**<br>
-    - 📊 **Creación de visualizaciones gráficas y grafos para representar la información de manera efectiva.**<br>
+    - 🔍 Recopilación y unificación de datos de múltiples fuentes, incluyendo Scopus, WOS y Scielo.<br>
+    - 🧩 Procesamiento de datos y análisis mediante indicadores bibliométricos.<br>
+    - 🧮 Desarrollo de algoritmos para evaluar la influencia y agrupación de autores.<br>
+    - 📊 Creación de visualizaciones gráficas y grafos para representar la información de manera efectiva.<br>
     </div>
     """,
     unsafe_allow_html=True
