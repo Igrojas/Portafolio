@@ -13,7 +13,7 @@ def load_lottieur(url):
 
 lottie_codder = load_lottieur("https://lottie.host/31483329-3d9e-47b9-9e2c-ec78b400d0b9/lNTQUwdr8s.json")
 
-st.title('Hola')
+st.title('Hola, soy Ignacio Rojas')
 
 st.write("""
     Ingeniero civil matemático con experiencia en análisis de datos y programación. Especializado en matemáticas aplicadas y estadísticas, 
