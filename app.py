@@ -23,7 +23,6 @@ st.write("""
 st.markdown("""
     [LinkedIn](https://www.linkedin.com/in/ignaciorojasr) | 
     [GitHub](https://github.com/Igrojas) | 
-    [Correo](mailto:igrojasro@hotmail.com)
 """)
 # with st.container():
 #     col1,col2 = st.columns(2)
