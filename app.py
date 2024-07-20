@@ -74,6 +74,9 @@ st.markdown("""
 st.markdown("""
 [Memoria de título](https://github.com/Igrojas/Memoria-Titulo/blob/main/Memoria%20de%20Titulo%202023.pdf) | 
 [Parte 1](https://an-lisis-bibliom-trico-jmvnh2ttwkckyma3bwpbos.streamlit.app/) | 
-[Análisis de Redes]https://an-lisis-bibliom-trico-scc3chpdbrqxoqnxpyzimx.streamlit.app/) |
+[Análisis de Redes](https://an-lisis-bibliom-trico-scc3chpdbrqxoqnxpyzimx.streamlit.app/) |
 [Algoritmo AuthorRank](https://an-lisis-bibliom-trico-q347mhuyf9j4wxsl9kdf2c.streamlit.app/)""")
+  
+
+
 
