@@ -76,6 +76,8 @@ st.markdown("""
 [Dashboard](https://an-lisis-bibliom-trico-ma9twhrt2rr376tnez6vi5.streamlit.app/) | 
 [Análisis de Redes](https://an-lisis-bibliom-trico-scc3chpdbrqxoqnxpyzimx.streamlit.app/) |
 [Algoritmo AuthorRank](https://an-lisis-bibliom-trico-q347mhuyf9j4wxsl9kdf2c.streamlit.app/)""")
+
+
   
 
 
