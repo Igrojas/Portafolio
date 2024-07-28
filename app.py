@@ -52,8 +52,7 @@ st.markdown("""
 """)
 
 st.markdown("""
-            [Parte 1](https://ml-flotacion-jdp6tepzersnzkwhyk498a.streamlit.app/) |
-            [Parte 2](https://ml-flotacion-a83mcjofehejjrpcth4frl.streamlit.app/)""")
+            [**Flotación**](https://ml-flotacion-9szxfpsrapmzbgvq5ywbmh.streamlit.app/)""")
 
 # st.write("---")
 st.write("###")
