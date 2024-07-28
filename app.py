@@ -2,16 +2,17 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import requests
 from streamlit_lottie import st_lottie
+from st_social_media_links import SocialMediaIcons
 
 # st.set_page_config(layout="wide")
 
-def load_lottieur(url):
-    r = requests.get(url)
-    if r.status_code != 200:
-        return None
-    return r.json()
+# def load_lottieur(url):
+#     r = requests.get(url)
+#     if r.status_code != 200:
+#         return None
+#     return r.json()
 
-lottie_codder = load_lottieur("https://lottie.host/31483329-3d9e-47b9-9e2c-ec78b400d0b9/lNTQUwdr8s.json")
+# lottie_codder = load_lottieur("https://lottie.host/31483329-3d9e-47b9-9e2c-ec78b400d0b9/lNTQUwdr8s.json")
 
 st.title('Hola, soy Ignacio Rojas')
 
@@ -20,17 +21,23 @@ st.write("""
     enfocado en la resolución de problemas complejos con precisión y eficiencia.
 """)
 
-st.markdown("""
-    [LinkedIn](https://www.linkedin.com/in/ignaciorojasr) | 
-    [GitHub](https://github.com/Igrojas) | 
-""")
+# st.markdown("""
+#     [LinkedIn](https://www.linkedin.com/in/ignaciorojasr) | 
+#     [GitHub](https://github.com/Igrojas) | 
+# """)
 
-st.markdown(
-    "<a href='https://www.linkedin.com/in/ignaciorojasr' target='_blank'>"
-    "<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='LinkedIn' width='30' height='30'>"
-    "</a>",
-    unsafe_allow_html=True,
-)
+social_media_links = [
+        "https://www.linkedin.com/in/ignaciorojasr",
+        "https://github.com/Igrojas",
+
+]
+
+colors = [None, "White"]
+
+social_media_icons = SocialMediaIcons(social_media_links, colors)
+
+social_media_icons.render(justify_content="Left")
+
 # with st.container():
 #     col1,col2 = st.columns(2)
 #     with col1:
