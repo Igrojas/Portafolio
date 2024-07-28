@@ -36,7 +36,9 @@ colors = [None, "White"]
 
 social_media_icons = SocialMediaIcons(social_media_links, colors)
 
-social_media_icons.render(justify_content="Left")
+social_media_icons.render(justify_content="Left")    
+
+
 
 # with st.container():
 #     col1,col2 = st.columns(2)
