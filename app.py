@@ -26,7 +26,7 @@ st.markdown("""
 """)
 
 st.markdown(
-    "<a href='TU_LINKEDIN_URL' target='_blank'>"
+    "<a href='https://www.linkedin.com/in/ignaciorojasr' target='_blank'>"
     "<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='LinkedIn' width='30' height='30'>"
     "</a>",
     unsafe_allow_html=True,
