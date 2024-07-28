@@ -30,7 +30,6 @@ st.markdown(
     "<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='LinkedIn' width='30' height='30'>"
     "</a>",
     unsafe_allow_html=True,
-    "[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)]"
 )
 # with st.container():
 #     col1,col2 = st.columns(2)
