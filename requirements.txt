@@ -3,3 +3,4 @@ networkx
 streamlit
 streamlit_option_menu
 streamlit-lottie
+st_social_media_links
