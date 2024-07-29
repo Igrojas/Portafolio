@@ -68,7 +68,7 @@ st.markdown("""
 """)
 
 st.markdown("""
-            [**Flotación**](https://ml-flotacion-9szxfpsrapmzbgvq5ywbmh.streamlit.app/)""")
+            [**Flotación**](https://flotacion.streamlit.app/)""")
 
 # st.write("---")
 st.write("###")
