@@ -75,7 +75,7 @@ referencias = [
 ]
 mostrar_proyecto(titulo, descripcion, imagen, link, referencias)
 
-
+  
 # Proyecto 
 titulo = "Análisis de Datos del Tenis"
 descripcion = """
@@ -144,6 +144,9 @@ st.markdown("""
 [Análisis de Redes](https://social-network-analysis.streamlit.app/) |
 [Algoritmo AuthorRank](https://algoritmo-a-uthorrank.streamlit.app/) |
 [Algoritmo ABCD](https://algoritmo-comunidades-abcd.streamlit.app/)""")
+
+
+
 
 
 
