@@ -30,7 +30,7 @@ st.header(":blue[Proyectos Personales]")
 def mostrar_proyecto(titulo, descripcion, imagen_url, link, referencias):
     
     st.write("###")
-    st.write(f"## :green[{titulo}]")
+    st.write(f"### :green[{titulo}]")
     col1, col2 = st.columns([0.7, 0.3])
     with col1:
         
