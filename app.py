@@ -24,7 +24,7 @@ social_media_icons.render(justify_content="Left")
 
 st.write("###")
 
-st.header(":blue[Proyectos Personales]")
+st.title(":blue[Proyectos Personales]")
 
 def mostrar_proyecto(titulo, descripcion, imagen_url, link, referencias):
     
