@@ -48,7 +48,7 @@ titulo = "Estudio Bibliométrico: Indicadores Bibliométricos y Análisis de Red
 descripcion = """
             Se ha llevado a cabo una recopilación y unificación de datos de diversas fuentes como Scopus,
             WOS y Scielo, para luego someterlos a un procesamiento y análisis mediante indicadores bibliométricos. 
-            Además, se han desarrollado algoritmos para evaluar la influencia y agrupación de autores,
+            Además, se han implementado algoritmos para evaluar la influencia y agrupación de autores,
             y se han creado visualizaciones gráficas y grafos para representar la información de manera efectiva, facilitando así su comprensión y análisis.
 """
 link = "https://bibliometria-dashboard.streamlit.app/"
