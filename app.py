@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import requests
 from st_social_media_links import SocialMediaIcons
+import webbrowser
 
 
 st.title('Hola, soy :blue[Ignacio Rojas]')
@@ -10,8 +11,6 @@ st.write("""
     Ingeniero civil matemático con experiencia en análisis de datos y programación. Especializado en matemáticas aplicadas y estadísticas, 
     enfocado en la resolución de problemas complejos con precisión y eficiencia.
 """)
-
-
 
 social_media_links = [
         "https://www.linkedin.com/in/ignaciorojasr",
@@ -47,8 +46,10 @@ def mostrar_proyecto(titulo, descripcion, imagen_url, link, referencias):
 # Proyecto 
 titulo = "Estudio Bibliométrico: Indicadores Bibliométricos y Análisis de Redes"
 descripcion = """
-            El proyecto consiste en recopilar y unificar datos de múltiples fuentes (Scopus, WOS y Scielo), procesarlos mediante indicadores bibliométricos,
-            desarrollar algoritmos para evaluar la influencia y agrupación de autores, y crear visualizaciones gráficas para representar la información de manera efectiva.
+            Se ha llevado a cabo una recopilación y unificación de datos de diversas fuentes como Scopus,
+            WOS y Scielo, para luego someterlos a un procesamiento y análisis mediante indicadores bibliométricos. 
+            Además, se han desarrollado algoritmos para evaluar la influencia y agrupación de autores,
+            y se han creado visualizaciones gráficas y grafos para representar la información de manera efectiva, facilitando así su comprensión y análisis.
 """
 link = "https://bibliometria-dashboard.streamlit.app/"
 imagen = "https://raw.githubusercontent.com/Igrojas/An-lisis-bibliom-trico/main/imagenes/Grafo.jpeg"
