@@ -22,7 +22,7 @@ colors = [None, "White"]
 social_media_icons = SocialMediaIcons(social_media_links, colors)
 social_media_icons.render(justify_content="Left")    
 
-st.write("###")
+st.write("##")
 
 st.title(":blue[Proyectos Personales]")
 
