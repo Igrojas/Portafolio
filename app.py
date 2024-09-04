@@ -1,9 +1,19 @@
 import streamlit as st
+from streamlit_tailwind import st_tw
+
 from streamlit_option_menu import option_menu
 import requests
 from st_social_media_links import SocialMediaIcons
 import webbrowser
 
+
+st.markdown("""
+    <style>
+    .css-18e3th9 {
+        background-color: #f0f2f6;  /* Color de fondo */
+    }
+    </style>
+""", unsafe_allow_html=True)
 
 st.title('Hola, soy :blue[Ignacio Rojas]')
 
