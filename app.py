@@ -1,10 +1,8 @@
 import streamlit as st
-from streamlit_tailwind import st_tw
 
 from streamlit_option_menu import option_menu
-import requests
 from st_social_media_links import SocialMediaIcons
-import webbrowser
+
 
 
 st.markdown("""
