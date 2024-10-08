@@ -7,10 +7,13 @@ from st_social_media_links import SocialMediaIcons
 st.title('Hola, soy :blue[Ignacio Rojas]')
 
 st.write("""
-Soy ingeniero civil matemático con sólidas habilidades en matemáticas, estadística y programación.
- Me destaco por mi enfoque analítico y resolutivo, con habilidades complementarias en autodesarrollo,
-  procesamiento de información y toma de riesgos inteligente. Con una base sólida en análisis y resolución de problemas complejos,
-   estoy dispuesto a aplicar mis conocimientos y habilidades en proyectos y desafíos que requieran innovación y soluciones efectivas.
+    Soy ingeniero civil matemático con un fuerte dominio de matemáticas, estadística y programación,
+    lo que me permite abordar problemas complejos con un enfoque analítico y orientado a soluciones.
+    Me destaco por mi capacidad para el autodesarrollo, el procesamiento eficiente de información y la toma de decisiones estratégicas y calculadas.
+    Con una base sólida en el análisis de datos y la resolución de problemas,
+    estoy listo para aplicar mis conocimientos en proyectos desafiantes que requieran innovación y resultados efectivos.
+
+
 """)
 
 social_media_links = [
