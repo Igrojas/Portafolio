@@ -7,11 +7,12 @@ from st_social_media_links import SocialMediaIcons
 st.title('Hola, soy :blue[Ignacio Rojas]')
 
 st.write("""
-    Soy ingeniero civil matemático con un fuerte dominio de matemáticas, estadística y programación,
-    lo que me permite abordar problemas complejos con un enfoque analítico y orientado a soluciones.
-    Me destaco por mi capacidad para el autodesarrollo, el procesamiento eficiente de información y la toma de decisiones estratégicas y calculadas.
-    Con una base sólida en el análisis de datos y la resolución de problemas,
-    estoy listo para aplicar mis conocimientos en proyectos desafiantes que requieran innovación y resultados efectivos.
+    Soy ingeniero civil matemático con especialización en análisis de datos, estadística y programación,
+    lo que me permite transformar grandes volúmenes de información en conocimientos accionables.
+    Me destaco en el uso de herramientas y técnicas de análisis para resolver problemas complejos,
+    optimizar procesos y tomar decisiones basadas en datos. Con habilidades en modelado predictivo, 
+    visualización de datos y machine learning, estoy preparado para aportar soluciones innovadoras y efectivas en proyectos de ciencia de datos.
+    Además, tengo un enfoque proactivo en el autodesarrollo y en la toma de decisiones estratégicas fundamentadas en evidencia.
 
 
 """)
