@@ -16,8 +16,10 @@ st.markdown("""
 st.title('Hola, soy :blue[Ignacio Rojas]')
 
 st.write("""
-    Ingeniero civil matemático con experiencia en análisis de datos y programación. Especializado en matemáticas aplicadas y estadísticas, 
-    enfocado en la resolución de problemas complejos con precisión y eficiencia.
+Soy ingeniero civil matemático con sólidas habilidades en matemáticas, estadística y programación.
+ Me destaco por mi enfoque analítico y resolutivo, con habilidades complementarias en autodesarrollo,
+  procesamiento de información y toma de riesgos inteligente. Con una base sólida en análisis y resolución de problemas complejos,
+   estoy dispuesto a aplicar mis conocimientos y habilidades en proyectos y desafíos que requieran innovación y soluciones efectivas.
 """)
 
 social_media_links = [
