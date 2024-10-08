@@ -4,15 +4,6 @@ from streamlit_option_menu import option_menu
 from st_social_media_links import SocialMediaIcons
 
 
-
-st.markdown("""
-    <style>
-    .css-18e3th9 {
-        background-color: #f0f2f6;  /* Color de fondo */
-    }
-    </style>
-""", unsafe_allow_html=True)
-
 st.title('Hola, soy :blue[Ignacio Rojas]')
 
 st.write("""
